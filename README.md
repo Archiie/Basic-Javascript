@@ -1,0 +1,1 @@
+This file is about learning basics of JavaScript and then implementing basic steps to push the code into github.
